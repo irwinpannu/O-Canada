@@ -1,6 +1,7 @@
 body{
     background-color: pink;
-    color: red;
+    color: red;    
+    margin-left: 50px;
 }
 h1{
     font-size: 60px;
